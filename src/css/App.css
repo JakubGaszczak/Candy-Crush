@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  padding: 2rem;
+}
+
+.game {
+  display: flex;
+  flex-wrap: wrap;
+  width: 35rem;
+  height: 35rem;
+}
+.game img {
+  width: 4.375rem;
+  height: 4.375rem;
+}/*# sourceMappingURL=App.css.map */
